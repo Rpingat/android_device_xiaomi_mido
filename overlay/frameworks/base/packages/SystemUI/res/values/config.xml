@@ -33,4 +33,11 @@
     <bool name="doze_display_state_supported">true</bool>
 
     <bool name="doze_pickup_performs_proximity_check">true</bool>
+
+    <string name="doze_pulse_schedule" translatable="false">10s,30s,60s,180s</string>
+
+    <bool name="doze_proximity_check_before_pulse_intent">true</bool>
+
+    <integer name="doze_pulse_delay_in_intent">0</integer> 
+ 
 </resources>
